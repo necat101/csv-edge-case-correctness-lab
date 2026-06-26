@@ -112,5 +112,5 @@ No external dependencies beyond Python stdlib + optional wc. No network calls du
 
 ---
 
-Verified: 2026-06-26T00:08:00Z
-Commit: a7275e86ed306d8c18496db8147f41fd4113a88c
+Verified: 2026-06-26T00:12:00Z
+Commit: b77a126642cfc7771dc26fa369c2f71b65e087d6
